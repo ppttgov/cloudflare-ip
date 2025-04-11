@@ -1,5 +1,5 @@
 var urlprefix = ".ip.flares.cloud"
-var imgUrls = ["/cloudflare-ip/img/s.webp", "/cloudflare-ip/img/m.webp", "/img/l.webp"]
+var imgUrls = ["/cloudflare-ip/img/s.webp", "/cloudflare-ip/img/m.webp", "/cloudflare-ip/img/l.webp"]
 var imgBytes = [117902, 1263924, 10914532]
 var imgi = 1
 var pingInterval = 100
